@@ -1,0 +1,1 @@
+ls *test.fasta | sort | xargs cat > all_seqs.fasta
